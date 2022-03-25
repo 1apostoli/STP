@@ -24,3 +24,6 @@ The max possible score for accessibility is thus 20, and axis values are calcula
 
 ### 2.2. Quantifying Functionality
 Functionality was measured using three metrics. **"Features"** refers to how much one can possibly do in terms of storefront and NFTs using a given alternative, i.e drop NFTs in different ways, implement and use things like SEO, site analytics, etcetera. **"NFT Control"** refers to how much freedom an alternative gives the end user with respect to things such as NFT contract type, asset type, and what kind of features the NFTs can have. **"Presentation Control"** refers to how much control an alternative gives one over the actual storefront. 
+
+### 2.3. Positioning Market Segments
+Market segments were positioned using our descriptions of them to infer what they'd desire in a product based on our definitions of the axes. 
