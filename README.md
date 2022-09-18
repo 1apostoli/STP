@@ -1,3 +1,5 @@
+# THIS IS NOT REAL WORK, THIS WAS DONE FOR A SCHOOL PROJECT! THANKS.
+
 # Tokenize STP Analysis
 Included in this repository is analysis of the positioning of alternatives to the Tokenize platform relative to the wants of market segments. 
 
